@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "38831b2bec95f18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7861e54f81226f2d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-12-12.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad6925865a8998a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "144b05197ca21c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f242e5bc3652ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92e7f49731ee80ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0c8ac13aa77fc6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "19dae7d0bfe768da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01eb1e41b660261e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-12-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f935ded78db9486e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2020-12-12.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-12-12.md",
+    "202012112041.md",
+    "工作学习.md",
+    "Tasks.md",
+    "Dailies/2020-12-11.md",
+    "202012112042.md",
+    "Untitled.md",
+    "2020-12-11.md"
+  ]
+}

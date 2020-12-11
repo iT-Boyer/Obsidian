@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "35d94aa90abbe8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a80c740aa35a01",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dailies/2020-12-11.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6db54773a2522a64",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a29936fae3c27be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca250c5bf35b54d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4f3040104d40252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#journal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "182ab1049e476c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a15b4508dbc5ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8abfdcd15a9612d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dailies/2020-12-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d23a43bdc66f8455",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dailies/2020-12-11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Dailies/2020-12-11.md",
+    "2020-12-11.md",
+    "20-12-11.md",
+    "20201211_214716.md",
+    "开始记录笔记.md",
+    "20-12-12.md",
+    "Tasks.md"
+  ]
+}

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b67932c546fc40b2",
+        "id": "8712d6064433caee",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-01-18.md",
+            "file": "Day Planners/2021-01-19.md",
             "mode": "source"
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-18.md",
+                "file": "Day Planners/2021-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-01-18.md"
+                "file": "Day Planners/2021-01-19.md"
               }
             }
           },
@@ -112,19 +111,12 @@
             "id": "3e6879726a0e2483",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "92c07b133b4f4d4f",
-            "type": "leaf",
-            "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2021-01-18.md",
-    "Templates/[TEMPLATE]Daily Note.md",
-    "202101181811.md",
+    "Day Planners/2021-01-19.md",
     "Tasks.md",
-    "Dailies/2021-01-18.md",
-    "Dailies/2020-12-11.md",
+    "完成开发任务.md",
+    "202101181811.md",
+    "2021-01-18.md",
+    "2021-01-19.md",
+    "Dailies/2021-01-19.md",
     "Day Planners/Day Planner-20210118.md",
-    "Templates/Proj.md",
-    "Templates/读书档案.md",
-    "Templates/Untitled 1.md"
+    "Day Planners/Day Planner-20210119.md",
+    "When the dailypath directory is specified can the parsing of  symbols be supported  Issue 17  hauselinobsidianalfred.md"
   ]
 }

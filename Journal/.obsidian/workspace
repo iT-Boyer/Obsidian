@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cb573d7ac1a24c60",
+        "id": "169afe3f5e4cdd92",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210203.md",
-            "mode": "preview"
+            "file": "Templates/周计划.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b8c61ba40fd82c06",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/2021-02-03.md",
+            "mode": "source"
           }
         }
       }
@@ -40,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#journal",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,6 +79,20 @@
     "type": "split",
     "children": [
       {
+        "id": "455a012e837b624c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf8602a3975c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "6a15b4508dbc5ca2",
         "type": "tabs",
         "children": [
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210203.md",
+                "file": "Templates/周计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20210203.md"
+                "file": "Templates/周计划.md"
               }
             }
           },
@@ -108,14 +133,6 @@
             }
           },
           {
-            "id": "abf8602a3975c9b4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "76e44f1e8b31e359",
             "type": "leaf",
             "state": {
@@ -124,22 +141,22 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20210203.md",
-    "Templates/日常计划.md",
-    "Day Planners/Day Planner-20210201 1.md",
-    "Day Planners/Day Planner-20210201.md",
-    "Day Planners/Day Planner-20210131.md",
-    "Day Planners/Day Planner-20210130.md",
-    "Tasks.md",
+    "Templates/周计划.md",
     "Day Planners/2021-02-03.md",
-    "Templates/读书档案 1.md",
-    "Day Planner-{date:yyyy-MM-dd}.md"
+    "Weeks/2021-W05.md",
+    "Templates/日常计划 1.md",
+    "Templates/日常计划.md",
+    "Day Planners/Day Planner-20210201.md",
+    "Templates/Proj.md",
+    "Untitled.md",
+    "2021-W05.md",
+    "Tasks.md"
   ]
 }

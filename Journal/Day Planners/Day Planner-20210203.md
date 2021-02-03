@@ -1,59 +1,71 @@
-## Day Planner
+## 日程安排
+今天计划
+1. 早晨准备
+2. 阅读
+3. 下午复习
+
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 下午6:17:13
+    %% Current Time: 下午7:59:44
     section Tasks
-    Setup for work     :09-30, 15mm
-    Review notes from yesterday     :09-45, 45mm
-    Create new notes for #35;article review     :10-30, 60mm
-    Reading     :12-00, 25mm
-    Reading     :12-30, 90mm
-    Review notes and update daily note [[20201103]]     :15-00, 45mm
-    Walk     :15-45, 45mm
-    Reading     :16-30, 50mm
-    Prep for tomorrow's meetings     :17-20, 40mm
-    工作纪要     :18-00, 60mm
-    END     :19-00, 0mm
+    开始工作     :09-30, 15mm
+    回顾昨天的笔记     :09-45, 45mm
+    回顾 #35;task 并写下回顾备注     :10-30, 60mm
+    开始阅读     :12-00, 25mm
+    继续阅读     :12-30, 90mm
+    审查笔记并更新每日笔记 [[20201103]]     :15-00, 45mm
+    散步     :15-45, 45mm
+    阅读     :16-30, 50mm
+    准备明天会议     :17-20, 100mm
+    阅读     :19-00, 165mm
+    洗刷     :22-00, 60mm
+    睡觉 END     :23-00, 0mm
     section Breaks
     BREAK     :11-30, 30mm
     BREAK     :12-25, 5mm
     BREAK     :14-00, 60mm
+    BREAK     :21-45, 15mm
 ```
 
-### Morning Prep
+### 早晨准备
 
 This is where I get ready for work and do my usual prep.
 
-- [x] 09:30 Setup for work
-- [x] 09:45 Review notes from yesterday
-- [x] 10:30 Create new notes for #article review
+- [x] 09:30 开始工作
+- [x] 09:45 回顾昨天的笔记
+- [x] 10:30 回顾 #task 并写下回顾备注
 - [x] 11:30 BREAK
 
-### Reading
+### 阅读
 
-A section of the day dedicated to reading:
+今天的阅读任务:
 
-1. Articles.
-2. Book chapters assigned for the day.
-3. Re-reading past notes.
+1. 两篇博客文章.
+2. 要读完微信力量第4-3章节。
+3. 回顾以前的阅读笔记。
    
-- [x] 12:00 Reading
-  - [ ] Article 1
-  - [ ] Article 2
-  - [ ] Article notes review
+- [x] 12:00 开始阅读
+  - [x] 最没有存在感的城市s宁夏
+  - [x] 一篇技术博客
+  - [x] 回顾博客笔记
 - [x] 12:25 BREAK
-- [x] 12:30 Reading
+- [x] 12:30 继续阅读
 - [x] 14:00 BREAK
 
-### Afternoon Review
+### 午评
+我使用这次回顾一下我当天早些时候所做的事情，并完成所有工作，为第二天做准备。
 
-I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
-
-- [x] 15:00 Review notes and update daily note [[20201103]]
-- [x] 15:45 Walk
-- [x] 16:30 Reading
-- [x] 17:20 Prep for tomorrow's meetings
-- [ ] 18:00 工作纪要
-- [ ] 19:00 END
+- [x] 15:00 审查笔记并更新每日笔记 [[20201103]]
+- [x] 15:45 散步
+- [x] 16:30 阅读
+- [x] 17:20 准备明天会议
+- [ ] 19:00 阅读
+	- [ ] 阅读精英习惯
+	- [ ] 20:00 阅读微信的力量
+	- [ ] 21:00 阅读大秦帝国
+- [ ] 21:45 BREAK
+- [ ] 22:00 洗刷
+- [ ] 23:00 睡觉 END
+- [ ] 

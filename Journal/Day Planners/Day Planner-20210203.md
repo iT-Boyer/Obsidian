@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 下午6:16:09
+    %% Current Time: 下午6:17:13
     section Tasks
     Setup for work     :09-30, 15mm
     Review notes from yesterday     :09-45, 45mm
@@ -14,7 +14,8 @@ gantt
     Walk     :15-45, 45mm
     Reading     :16-30, 50mm
     Prep for tomorrow's meetings     :17-20, 40mm
-    END     :18-00, 0mm
+    工作纪要     :18-00, 60mm
+    END     :19-00, 0mm
     section Breaks
     BREAK     :11-30, 30mm
     BREAK     :12-25, 5mm

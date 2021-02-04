@@ -8,7 +8,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 下午8:04:56
+    %% Current Time: 下午11:59:59
     section Tasks
     开始工作     :09-30, 15mm
     回顾昨天的笔记     :09-45, 45mm
@@ -61,11 +61,11 @@ This is where I get ready for work and do my usual prep.
 - [x] 15:45 散步
 - [x] 16:30 阅读
 - [x] 17:20 准备明天会议
-- [ ] 19:00 阅读
+- [x] 19:00 阅读
 	- [ ] 阅读精英习惯
 	- [ ] 20:00 阅读微信的力量
 	- [ ] 21:00 阅读大秦帝国
-- [ ] 21:45 BREAK
-- [ ] 22:00 洗刷
-- [ ] 23:00 睡觉 END
+- [x] 21:45 BREAK
+- [x] 22:00 洗刷
+- [x] 23:00 睡觉 END
 - [ ] 

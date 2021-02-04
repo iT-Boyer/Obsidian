@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "787f65fe9032a4ef",
+        "id": "292f2d4029adca79",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Weeks/2021-W05.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -91,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weeks/2021-W05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Weeks/2021-W05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,15 +131,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Weeks/2021-W05.md",
-    "Day Planners/2021-02-04.md",
-    "Day Planners/Day Planner-20210204.md",
-    "Day Planners/Day Planner-2021-02-04.md",
-    "Day Planner-20210204.md",
+    "Day Planners/Day Planner-20210118.md",
+    "Day Planners/Day Planner-20210119.md",
     "Day Planners/Day Planner-20210203.md",
     "Day Planners/Day Planner-20210201.md",
     "Day Planners/2021-01-19.md",
     "Day Planners/2021-02-03.md",
-    "Tasks.md"
+    "Templates/[TEMPLATE]Daily Note.md",
+    "Weeks/2021-W05.md",
+    "Templates/周计划.md",
+    "Templates/Proj.md"
   ]
 }

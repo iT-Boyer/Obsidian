@@ -57,7 +57,7 @@ This is where I get ready for work and do my usual prep.
 ### 午评
 我使用这次回顾一下我当天早些时候所做的事情，并完成所有工作，为第二天做准备。
 
-- [x] 15:00 审查笔记并更新每日笔记 [[20201103]]
+- [x] 15:00 审查笔记并更新每日笔记 [[20210103]]
 - [x] 15:45 散步
 - [x] 16:30 阅读
 - [x] 17:20 准备明天会议
@@ -68,4 +68,3 @@ This is where I get ready for work and do my usual prep.
 - [x] 21:45 BREAK
 - [x] 22:00 洗刷
 - [x] 23:00 睡觉 END
-- [ ] 
